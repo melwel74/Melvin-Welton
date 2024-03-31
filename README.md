@@ -1,27 +1,21 @@
-# Melvin-Welton
-## About Me
-I am a student at the University of Missouri - Columbia studying Computer Science. I am a member of the Mizzou Robotics Club and I am currently working on a project to create a robot that can navigate a maze. I am also a member of the Mizzou Game Developers Club and I am working on a project to create a game using the Unity game engine. I am interested in software development and I am always looking for new projects to work on. I am currently learning C++ and I am working on a project to create a text-based adventure game. I am also learning Python and I am working on a project to create a program that can solve Sudoku puzzles. I am interested in artificial intelligence and I am working on a project to create a neural network that can recognize handwritten digits. I am also interested in web development and I am working on a project to create a website for a local business. I am always looking for new projects to work on and I am excited to see what the future holds.
+# Project Title
 
-## Contact Me
-- Email: melvinwelton@example.com
+One Paragraph of project description goes here. It's good to make this engaging and clear about what your project does and its benefits.
 
-## Visuals
-Here are some visuals related to my projects:
+## Badges
 
-### Maze Navigation Robot
-![Maze Navigation Robot](/path/to/maze_navigation_robot.png)
+![GitHub license](https://img.shields.io/github/license/yourusername/yourrepositoryname.svg)
+![GitHub issues](https://img.shields.io/github/issues/yourusername/yourrepositoryname.svg)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepositoryname.svg)
+![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepositoryname.svg)
+![GitHub build](https://img.shields.io/travis/yourusername/yourrepositoryname/master.svg)
+![Coverage](https://img.shields.io/codecov/c/github/yourusername/yourrepositoryname.svg)
 
-### Unity Game Project
-![Unity Game Project](/path/to/unity_game_project.png)
+## Getting Started
 
-### Text-based Adventure Game
-![Text-based Adventure Game](/path/to/text_based_adventure_game.png)
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-### Sudoku Solver Program
-![Sudoku Solver Program](/path/to/sudoku_solver_program.png)
+### Prerequisites
 
-### Handwritten Digit Recognition Neural Network
-![Handwritten Digit Recognition Neural Network](/path/to/digit_recognition_neural_network.png)
+What things you need to install the software and how to install them
 
-### Local Business Website
-![Local Business Website](/path/to/local_business_website.png)
